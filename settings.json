@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "24-7-AFK-Aternos-Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "24-7-AFK-Aternos-Bot",
+    "password": "111111",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "MC_BOYS_Server.aternos.me",
+    "port": 54250,
+    "version": "26.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hi",
+        "I'm a AFK BOT",
+        "Enjoy the server!"
       ]
     },
     "chat-log": true,
